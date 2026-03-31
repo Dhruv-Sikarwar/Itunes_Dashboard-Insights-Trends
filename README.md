@@ -25,9 +25,9 @@ Apple iTunes maintains a large digital music store with millions of tracks ,thou
 
 ### 🖼 Screenshots of some Important Queries
   #### Click on them to see clearly
-<a href="ITUNES_Analysis/4_SQL_Screenshots/Screenshot1.png"><img src="ITUNES_Analysis/4_SQL_Screenshots/Screenshot1.png" width="300px" height="400px"></a>
-<a href="ITUNES_Analysis/4_SQL_Screenshots/Screenshot2.png"><img src="ITUNES_Analysis/4_SQL_Screenshots/Screenshot2.png" width="300px" height="600px"></a>
-<a href="ITUNES_Analysis/4_SQL_Screenshots/Screenshot3.png"><img src="ITUNES_Analysis/4_SQL_Screenshots/Screenshot3.png" width="300px" height="900px"></a>
+<a href="ITUNES_Analysis/4_SQL_Screenshots/Screenshot1.png"><img src="ITUNES_Analysis/4_SQL_Screenshots/Screenshot1.png" width="300px"></a>
+<a href="ITUNES_Analysis/4_SQL_Screenshots/Screenshot2.png"><img src="ITUNES_Analysis/4_SQL_Screenshots/Screenshot2.png" width="300px"></a>
+<a href="ITUNES_Analysis/4_SQL_Screenshots/Screenshot3.png"><img src="ITUNES_Analysis/4_SQL_Screenshots/Screenshot3.png" width="300px"></a>
 
 <br>
 
@@ -53,10 +53,13 @@ Apple iTunes maintains a large digital music store with millions of tracks ,thou
 
 ## 🏨 Dashboard / Visualization
   #### Click on Images to go in folder.
+<p>
+  
 <a href="ITUNES_Analysis/3_Dashboard_Screenshots/Dashboard1.png"><img src="ITUNES_Analysis/3_Dashboard_Screenshots/Dashboard1.png" width="400px"></a>  
 <a href="ITUNES_Analysis/3_Dashboard_Screenshots/Dashboard2.png"><img src="ITUNES_Analysis/3_Dashboard_Screenshots/Dashboard2.png" width="400px"></a>
 <a href="ITUNES_Analysis/3_Dashboard_Screenshots/Dashboard3.png"><img src="ITUNES_Analysis/3_Dashboard_Screenshots/Dashboard3.png" width="400px"></a>
   
+</p>
 
 
 #### DAX Used
