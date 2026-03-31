@@ -21,13 +21,13 @@ Apple iTunes maintains a large digital music store with millions of tracks ,thou
 - Changed Data Types of required fields.
 - Enforced Primary Key & Foreign Key to make relationship between tables.
 
-  ### [SQL Queries](ITUNES_Analysis/2_SQL_Queries)
+  ### [SQL Queries](ITUNES_Analysis/2_SQLQueries)
 
 ### 🖼 Screenshots of some Important Queries
   #### Click on them to see clearly
-<a href="ITUNES_Analysis/4_SQL_Screenshots/Screenshot1.png"><img src="ITUNES_Analysis/4_SQL_Screenshots/Screenshot1.png" width="300px"></a>
-<a href="ITUNES_Analysis/4_SQL_Screenshots/Screenshot2.png"><img src="ITUNES_Analysis/4_SQL_Screenshots/Screenshot2.png" width="300px"></a>
-<a href="ITUNES_Analysis/4_SQL_Screenshots/Screenshot3.png"><img src="ITUNES_Analysis/4_SQL_Screenshots/Screenshot3.png" width="300px"></a>
+<a href="ITUNES_Analysis/4_SQL_Screenshots/Screenshot1.png"><img src="ITUNES_Analysis/4_SQL_Screenshots/Screenshot1.png" width="300px" height="400px"></a>
+<a href="ITUNES_Analysis/4_SQL_Screenshots/Screenshot2.png"><img src="ITUNES_Analysis/4_SQL_Screenshots/Screenshot2.png" width="300px" height="400px"></a>
+<a href="ITUNES_Analysis/4_SQL_Screenshots/Screenshot3.png"><img src="ITUNES_Analysis/4_SQL_Screenshots/Screenshot3.png" width="300px" height="400px"></a>
 
 <br>
 
@@ -53,9 +53,9 @@ Apple iTunes maintains a large digital music store with millions of tracks ,thou
 
 ## 🏨 Dashboard / Visualization
   #### Click on Images to go in folder.
-<a href="ITUNES_Analysis/3_Dashboard_Screenshots/Dashboard1.png"><img src="ITUNES_Analysis/3_Dashboard_Screenshots/Dashboard1.png" width="300px"></a>  
-<a href="ITUNES_Analysis/3_Dashboard_Screenshots/Dashboard2.png"><img src="ITUNES_Analysis/3_Dashboard_Screenshots/Dashboard2.png" width="300px"></a>
-<a href="ITUNES_Analysis/3_Dashboard_Screenshots/Dashboard3.png"><img src="ITUNES_Analysis/3_Dashboard_Screenshots/Dashboard3.png" width="300px"></a>
+<a href="ITUNES_Analysis/3_Dashboard_Screenshots/Dashboard1.png"><img src="ITUNES_Analysis/3_Dashboard_Screenshots/Dashboard1.png" width="400px"></a>  
+<a href="ITUNES_Analysis/3_Dashboard_Screenshots/Dashboard2.png"><img src="ITUNES_Analysis/3_Dashboard_Screenshots/Dashboard2.png" width="400px"></a>
+<a href="ITUNES_Analysis/3_Dashboard_Screenshots/Dashboard3.png"><img src="ITUNES_Analysis/3_Dashboard_Screenshots/Dashboard3.png" width="400px"></a>
   
 
 
@@ -74,7 +74,7 @@ Apple iTunes maintains a large digital music store with millions of tracks ,thou
 
 ## 🎯 Insights 
   ### All Insights are described in this image.
-<a href="ITUNES_Analysis/3_Dashboard_Screenshots/Dashboard4.png"><img src="ITUNES_Analysis/3_Dashboard_Screenshots/Dashboard4.png" width="300px"></a>
+<a href="ITUNES_Analysis/3_Dashboard_Screenshots/Dashboard4.png"><img src="ITUNES_Analysis/3_Dashboard_Screenshots/Dashboard4.png" width="700px" height="400px"></a>
 
 
 ### Only these 3 handles with customer :
