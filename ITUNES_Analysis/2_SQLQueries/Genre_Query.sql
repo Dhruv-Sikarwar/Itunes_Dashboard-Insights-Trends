@@ -1,0 +1,4 @@
+ALTER TABLE genre
+ADD CONSTRAINT PK_genre PRIMARY KEY (genre_id);
+SELECT * FROM genre
+WHERE name IS NULL;
